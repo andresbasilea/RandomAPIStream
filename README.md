@@ -12,4 +12,4 @@ Apache Spark:
 - Master - Worker configuration.
 - Listener for Kafka streaming and adding data to Cassandra. 
 
-All the architecture will be run on Docker containers, spinned up by a single Dockerfile. 
+All the architecture will be run on Docker containers, spinned up by a single file. 
