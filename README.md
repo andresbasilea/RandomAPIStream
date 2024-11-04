@@ -13,3 +13,5 @@ Apache Spark:
 - Listener for Kafka streaming and adding data to Cassandra. 
 
 All the architecture will be run on Docker containers, spinned up by a single file. 
+
+Credits to Yusuf (airscholar) https://github.com/airscholar/e2e-data-engineering
