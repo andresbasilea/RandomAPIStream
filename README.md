@@ -14,4 +14,4 @@ Apache Spark:
 
 All the architecture will be run on Docker containers, spinned up by a single file. 
 
-Credits to Yusuf (airscholar) https://github.com/airscholar/e2e-data-engineering
+Credits to Yusuf (airscholar)
